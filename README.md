@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[[Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-LIVE_WEBSITE-00D26A?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
-[[CampusConnect](https://img.shields.io/badge/🏫_CAMPUSCONNECT-LIVE_PROJECT-FF6B6B?style=for-the-badge)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
-[[GitHub](https://img.shields.io/badge/GitHub-@umaiirakram-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram)
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-akram-1b0416433)
+[[Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
+[[CampusConnect](https://img.shields.io/badge/CAMPUSCONNECT-LIVE-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+[[GitHub](https://img.shields.io/badge/GITHUB-@umaiirakram-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
+[[LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram-1b0416433)
 
 </div>
 
@@ -13,55 +13,64 @@
 
 <div align="center">
 
-### 🚀 LIVE WEBSITES
+## 🚀 LIVE WEBSITES - CLICK BUTTONS TO OPEN
 
-[[My Portfolio](https://img.shields.io/badge/OPEN_MY_PORTFOLIO-Click_Here-00D26A?style=for-the-badge&labelColor=0a0e1a)](https://umaiirakram.github.io/personal-portfolio/)
-[[CampusConnect](https://img.shields.io/badge/OPEN_CAMPUSCONNECT-Click_Here-FF6B6B?style=for-the-badge&labelColor=0a0e1a)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+[[OPEN PORTFOLIO](https://img.shields.io/badge/🌐_OPEN_PORTFOLIO-CLICK_HERE-00C851?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
+[[OPEN CAMPUSCONNECT](https://img.shields.io/badge/🏫_OPEN_CAMPUSCONNECT-CLICK_HERE-FF4444?style=for-the-badge)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
 
-### 👨‍💻 ABOUT ME
+</div>
+
+---
+
+## 👨💻 About Me
 
 **BSCS @ University of Layyah | Aspiring AI/ML Engineer | Digital Marketer**
 
-[[About](https://img.shields.io/badge/Learn-→_Build_→_Market_→_Repeat-0a0e1a?style=for-the-badge)](https://github.com/umaiirakram)
-
-</div>
+[[BSCS Student](https://img.shields.io/badge/BSCS-University_of_Layyah-0A66C2?style=flat-square)](https://github.com/umaiirakram)
+[[AI/ML](https://img.shields.io/badge/Focus-AI_ML-FF6B6B?style=flat-square)](https://github.com/umaiirakram)
+[[Digital Marketing](https://img.shields.io/badge/Expertise-Digital_Marketing-00C851?style=flat-square)](https://github.com/umaiirakram)
 
 ---
 
-### 🎨 Features
+## 🎨 Features
 
-[[Dark Theme](https://img.shields.io/badge/Dark_Theme-0a0e1a-0a0e1a?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
-[[Responsive](https://img.shields.io/badge/Responsive-Mobile_&_Desktop-38B2AC?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
-[[Modern](https://img.shields.io/badge/Design-Modern_UI-b6fbff?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
+[[Dark Theme](https://img.shields.io/badge/Theme-Dark_0a0e1a-0a0e1a?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
+[[Responsive](https://img.shields.io/badge/Responsive-Yes-38B2AC?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
+[[Modern](https://img.shields.io/badge/Design-Modern-b6fbff?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-[[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)](https://github.com/umaiirakram)
-[[Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)](https://github.com/umaiirakram)
+[[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/umaiirakram)
+[[Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/umaiirakram)
 [[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/umaiirakram)
-[[GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram)
+[[GitHub Pages](https://img.shields.io/badge/Pages-GitHub_Pages-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
 
-### 📂 Projects
+## 📂 Projects
 
-[[CampusConnect](https://img.shields.io/badge/🏫_CampusConnect-View_Site-83a4d4?style=for-the-badge)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
-[[View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram/campusconnectproject)
-[[Digital Marketing](https://img.shields.io/badge/📈_Digital_Marketing-Expertise-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/umair-akram-1b0416433)
+### 🏫 CampusConnect - University Platform
 
-### 📈 Expertise
+[[VIEW LIVE SITE](https://img.shields.io/badge/🚀_VIEW_LIVE_SITE-OPEN-00C851?style=for-the-badge)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+[[VIEW CODE](https://img.shields.io/badge/💻_VIEW_CODE-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram/campusconnectproject)
 
-[[Digital Marketing](https://img.shields.io/badge/Digital_Marketing-b6fbff?style=for-the-badge)](https://www.linkedin.com/in/umair-akram-1b0416433)
-[[SEO](https://img.shields.io/badge/SEO-83a4d4?style=for-the-badge)](https://www.linkedin.com/in/umair-akram-1b0416433)
-[[SMM](https://img.shields.io/badge/SMM-38B2AC?style=for-the-badge)](https://www.linkedin.com/in/umair-akram-1b0416433)
-[[AI/ML](https://img.shields.io/badge/AI_ML-Python-FF6B6B?style=for-the-badge)](https://www.linkedin.com/in/umair-akram-1b0416433)
+### 📈 Digital Marketing
 
-### 🔗 Connect
+[[LINKEDIN](https://img.shields.io/badge/📈_VIEW_PROFILE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-akram-1b0416433)
 
-[[Follow](https://img.shields.io/badge/Follow_on_GitHub-@umaiirakram-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram)
-[[Connect](https://img.shields.io/badge/Connect_on_LinkedIn-Umair_Akram-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-akram-1b0416433)
-[[Portfolio](https://img.shields.io/badge/Visit_Portfolio-Website-00D26A?style=for-the-badge&logo=google-chrome)](https://umaiirakram.github.io/personal-portfolio/)
+---
+
+## 🔗 Connect
 
 <div align="center">
 
-### © 2026 Umair Akram - Built with ❤️
+[[GitHub](https://img.shields.io/badge/FOLLOW-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/umaiirakram)
+[[LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-akram-1b0416433)
+[[Portfolio](https://img.shields.io/badge/VISIT-PORTFOLIO-00C851?style=for-the-badge&logo=google-chrome)](https://umaiirakram.github.io/personal-portfolio/)
+[[CampusConnect](https://img.shields.io/badge/VISIT-CAMPUSCONNECT-FF4444?style=for-the-badge&logo=vercel)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+
+</div>
+
+<div align="center">
+
+**© 2026 Umair Akram - Built with ❤️**
 
 </div>
