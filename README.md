@@ -11,6 +11,8 @@ I'm **Umair Akram**, a BSCS Student at **University of Layyah**, passionate abou
 
 This portfolio showcases my journey from Web Development to AI/ML and Digital Marketing expertise.
 
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px 25px;">
+
 ### 🚀 Features
 - 🎨 Modern Dark Theme with Space Grotesk Font
 - 📱 Fully Responsive (Mobile + Desktop)
@@ -21,8 +23,8 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 ### 🛠 Tech Stack
 - **Frontend:** HTML5, Tailwind CSS, JavaScript
 - **Fonts:** Space Grotesk, JetBrains Mono
-- **Deployment:** GitHub Pages
-- **Version Control:** Git & GitHub
+- **Deployment:** 【entity-GitHub¦canonical_name=GitHub】 Pages
+- **Version Control:** Git & 【entity-GitHub¦canonical_name=GitHub】
 
 ### 📂 Projects Featured
 1.  **CampusConnect** - University Management Platform (Flask, MySQL, AI Summary)
@@ -35,6 +37,8 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 - SEO & Content Strategy
 - Social Media Marketing (SMM)
 - Campaign Management & Analytics
+
+</div>
 
 ### 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/GITHUB-@umaiirakram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
