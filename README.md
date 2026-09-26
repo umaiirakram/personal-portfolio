@@ -1,13 +1,11 @@
 # Umair Akram - Personal Portfolio 🌐
 
-[![Live Website](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge)](https://umaiirakram.github.io/personal-portfolio/)
-[![CampusConnect Live](https://img.shields.io/badge/CampusConnect-Live-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-CLICK_HERE-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![【entity-GitHub¦canonical_name=GitHub】 Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-black?style=for-the-badge&logo=github)](https://pages.github.com/)
 
-> **Live Demo:** [![Portfolio](https://img.shields.io/badge/🌐_OPEN_PORTFOLIO-CLICK_HERE-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
-> **CampusConnect Live:** [![CampusConnect](https://img.shields.io/badge/🏫_OPEN_CAMPUSCONNECT-LIVE-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+> **Live Demo:** [![Portfolio](https://img.shields.io/badge/🌐_OPEN_PORTFOLIO-LIVE_NOW-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
 
 ### 👨💻 About Me
 I'm **Umair Akram**, a BSCS Student at **University of Layyah**, passionate about building practical web applications, exploring **AI/ML**, and my core strength is **Digital Marketing**.
@@ -24,8 +22,8 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 ### 🛠 Tech Stack
 - **Frontend:** HTML5, Tailwind CSS, JavaScript
 - **Fonts:** Space Grotesk, JetBrains Mono
-- **Deployment:** 【entity-GitHub¦canonical_name=GitHub】 Pages
-- **Version Control:** Git & 【entity-GitHub¦canonical_name=GitHub】
+- **Deployment:** GitHub Pages
+- **Version Control:** Git & GitHub
 
 ### 📂 Projects Featured
 1.  **CampusConnect** - University Management Platform (Flask, MySQL, AI Summary)
@@ -40,10 +38,9 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 - Campaign Management & Analytics
 
 ### 🔗 Connect With Me
-- **GitHub:** [@umaiirakram](https://github.com/umaiirakram)
-- **LinkedIn:** [Umair Akram](https://www.linkedin.com/in/umair-akram-1b0416433)
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT_NOW-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
-- **CampusConnect Live:** [![CampusConnect](https://img.shields.io/badge/🏫_CAMPUSCONNECT-VISIT_NOW-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://umaiirakram.github.io/CampusConnect-Smart-University-Management-Platform/)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GITHUB-@umaiirakram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Umair_Akram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram-1b0416433)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
 
 ### 📦 How to Run Locally
 ```bash
