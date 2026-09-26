@@ -14,14 +14,12 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px 25px;">
 
 <div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px 25px; background-color: #0d1117;">
-
 ### 🚀 Features
 - 🎨 Modern Dark Theme with Space Grotesk Font
 - 📱 Fully Responsive (Mobile + Desktop)
 - 📈 Digital Marketing Section - My Main Strength
 - 🏫 Featured Project: CampusConnect
 - 🔗 Direct Links to GitHub & LinkedIn
-
 </div>
 
 ### 🛠 Tech Stack
