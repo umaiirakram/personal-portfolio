@@ -37,9 +37,9 @@ This portfolio showcases my journey from Web Development to AI/ML and Digital Ma
 - Campaign Management & Analytics
 
 ### 🔗 Connect With Me
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GITHUB-@umaiirakram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Umair_Akram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram-1b0416433)
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-@umaiirakram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umaiirakram)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Umair_Akram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-akram-1b0416433)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umaiirakram.github.io/personal-portfolio/)
 
 ### 📦 How to Run Locally
 ```bash
